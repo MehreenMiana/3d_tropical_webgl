@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "tropical webgl",
+"productVersion": "0.1",
+"dataUrl": "webgl changes done.data.unityweb",
+"wasmCodeUrl": "webgl changes done.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl changes done.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "webgl changes done.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.7f1"
+}

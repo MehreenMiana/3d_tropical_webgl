@@ -29,20 +29,21 @@
     width: 80%;
     height: 50px;
     background: lightgray;
-   
+      border-radius: 15px;
 }
 
 #custom-loader .fill {
     width: 0%;
     height: 100%;
-    background: blue;
+    background: green;
+    border-radius: 15px;
 }
 
 #custom-loader .label {
     position: relative;
     top: -44px;
     font-size: 35px;
-    font-color: white;
+    color: white;
     text-align: center;
     font-family: sans-serif, calibri;
 }
